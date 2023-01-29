@@ -1,0 +1,13 @@
+D:\Tamaskovits\Camel\Camel\bin\Debug\netcoreapp3.1\Camel.exe
+D:\Tamaskovits\Camel\Camel\bin\Debug\netcoreapp3.1\Camel.deps.json
+D:\Tamaskovits\Camel\Camel\bin\Debug\netcoreapp3.1\Camel.runtimeconfig.json
+D:\Tamaskovits\Camel\Camel\bin\Debug\netcoreapp3.1\Camel.runtimeconfig.dev.json
+D:\Tamaskovits\Camel\Camel\bin\Debug\netcoreapp3.1\Camel.dll
+D:\Tamaskovits\Camel\Camel\bin\Debug\netcoreapp3.1\Camel.pdb
+D:\Tamaskovits\Camel\Camel\obj\Debug\netcoreapp3.1\Camel.csprojAssemblyReference.cache
+D:\Tamaskovits\Camel\Camel\obj\Debug\netcoreapp3.1\Camel.AssemblyInfoInputs.cache
+D:\Tamaskovits\Camel\Camel\obj\Debug\netcoreapp3.1\Camel.AssemblyInfo.cs
+D:\Tamaskovits\Camel\Camel\obj\Debug\netcoreapp3.1\Camel.csproj.CoreCompileInputs.cache
+D:\Tamaskovits\Camel\Camel\obj\Debug\netcoreapp3.1\Camel.dll
+D:\Tamaskovits\Camel\Camel\obj\Debug\netcoreapp3.1\Camel.pdb
+D:\Tamaskovits\Camel\Camel\obj\Debug\netcoreapp3.1\Camel.genruntimeconfig.cache

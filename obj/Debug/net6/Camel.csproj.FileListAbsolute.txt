@@ -1,0 +1,30 @@
+D:\Tamaskovits Gyula\camel\bin\Debug\net6\Camel.exe
+D:\Tamaskovits Gyula\camel\bin\Debug\net6\Camel.deps.json
+D:\Tamaskovits Gyula\camel\bin\Debug\net6\Camel.runtimeconfig.json
+D:\Tamaskovits Gyula\camel\bin\Debug\net6\Camel.dll
+D:\Tamaskovits Gyula\camel\bin\Debug\net6\Camel.pdb
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.csproj.AssemblyReference.cache
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.AssemblyInfoInputs.cache
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.AssemblyInfo.cs
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.csproj.CoreCompileInputs.cache
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.dll
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\refint\Camel.dll
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.pdb
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\Camel.genruntimeconfig.cache
+D:\Tamaskovits Gyula\camel\obj\Debug\net6\ref\Camel.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\bin\Debug\net6\Camel.exe
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\bin\Debug\net6\Camel.deps.json
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\bin\Debug\net6\Camel.runtimeconfig.json
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\bin\Debug\net6\Camel.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\bin\Debug\net6\Camel.pdb
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.csproj.AssemblyReference.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.AssemblyInfoInputs.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.AssemblyInfo.cs
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.csproj.CoreCompileInputs.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\refint\Camel.dll
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.pdb
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\Camel.genruntimeconfig.cache
+E:\Gyuszi\Pollák Antal Technikum\11.A\IKT Projektmunka II 3\Házi\Camel\obj\Debug\net6\ref\Camel.dll
